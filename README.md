@@ -1,7 +1,7 @@
 ﻿# SaaS ChatGPT Bot
 
 ## Demonstration
-![Demo Gif] (Chatbot.gif)
+![Demo of the Website](Chatbot.gif)
 ---
 ## Home Screen
 ![Home Screen](home_screen.png)
