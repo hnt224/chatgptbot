@@ -1,4 +1,5 @@
-﻿# SaaS ChatGPT Bot
+﻿# Software as a Service ChatGPT Bot
+## Uses OpenAI's API model GPT-4o-mini to support users in answering their questions. 
 
 ## Demonstration
 ![Demo of the Website](Chatbot.gif)
